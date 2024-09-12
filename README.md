@@ -1,4 +1,4 @@
-<h1>Análise do quadro de medalha das Paralimpíadas 2024</h1>
+<h1>Análise do quadro de medalhas das Paralimpíadas 2024</h1>
 
 Uma breve análise do quadro de medalhas dos Jogos Paralímpicos de Paris 2024.
 
