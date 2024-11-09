@@ -4,7 +4,7 @@ Uma breve análise do quadro de medalhas dos Jogos Paralímpicos de Paris 2024.
 
 <h1>Objetivo</h1>
 
-O objetivo dessa análise é responder a seguinte questão:<strong> a maneira usada para ranquear os países nas paralimpíadas, usando apenas os ouros ou o total de medalhas, é eficaz?<strong>
+O objetivo dessa análise é responder a seguinte questão:<strong> a maneira usada para ranquear os países nas paralimpíadas, usando apenas os ouros ou o total de medalhas, é eficaz?</strong>
 
 Ranquear a partir dos ouros exclui o valor das outras medalhas conquistadas. Já ranquear a partir do total de medalhas desconsidera a dificuldade de ganhar o ouro, tornando algo banal. 
 
