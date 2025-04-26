@@ -20,7 +20,7 @@ Além disso, a análise buscará fazer comparações entre a antiga e a nova vis
 
 <h1>Resultados</h1>
 <h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
+    <img src="./comp_posicoes.png" alt="drawning" width="199">
 </h4>
 
 <h1>Conclusões</h1>
